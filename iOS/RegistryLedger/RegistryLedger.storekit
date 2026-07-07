@@ -1,0 +1,44 @@
+{
+  "identifier": "REGISTRYLEDGER_PRO_MONTHLY",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_applicationInternalID": "0",
+    "_developerTeamID": "W7Q885Q59C",
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [
+    {
+      "id": "registryledger_pro_monthly_group",
+      "localizations": [],
+      "name": "RegistryLedger Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "registryledger_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Thank-you-note sent tracker and export list",
+              "displayName": "Thank-You Tracker Export",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "registryledger_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Thank-You Tracker Export",
+          "subscriptionGroupID": "registryledger_pro_monthly_group",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
