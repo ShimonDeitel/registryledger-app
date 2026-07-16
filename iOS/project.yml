@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: RegistryLedgerTests
-      - path: RegistryLedger.storekit
     dependencies:
       - target: RegistryLedger
     settings:
